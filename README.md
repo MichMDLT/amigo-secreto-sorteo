@@ -34,10 +34,10 @@ Una vez agregados los nombres, presiona "Sortear Amigo".
 La aplicación mostrará el nombre seleccionado aleatoriamente.
 
 
-Abrir app:
+Abrir app en ventana de navegador:
 ![image](https://github.com/user-attachments/assets/6e318938-e1b3-445c-ae44-f30222dc90ab)
 
-Agregando nomres de amigos:
+Agregando nombres de amigos:
 ![image](https://github.com/user-attachments/assets/11f07d55-ec78-4ed8-ac44-abe2505b5d4f)
 
 Presionando botón "Sortear amigo":
